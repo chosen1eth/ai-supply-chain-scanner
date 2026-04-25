@@ -3,3 +3,6 @@ requests
 feedparser
 yfinance
 streamlit
+beautifulsoup4
+pypdf
+yt-dlp

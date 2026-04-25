@@ -6,3 +6,9 @@ __pycache__/
 
 alpha_scanner.sqlite
 .streamlit/
+*.log
+
+research_reports/*
+!research_reports/.gitkeep
+youtube_transcripts/*
+!youtube_transcripts/.gitkeep
